@@ -3,7 +3,7 @@ const services = [
         id: 1,
         title: "Free Shipping",
         description: "Enjoy complimentary shipping on all orders over $50",
-        image: "/shipping.jpg",
+        image: "/react-store/shipping.jpg",
         icon: "fas fa-truck-fast",
         features: [
             "2-5 business days delivery",
@@ -17,7 +17,7 @@ const services = [
         id: 2,
         title: "24/7 Customer Support",
         description: "We're here to help anytime, day or night",
-        image: "/support.jpg",
+        image: "/react-store/support.jpg",
         icon: "fas fa-headset",
         features: [
             "Live chat and email support",
@@ -31,7 +31,7 @@ const services = [
         id: 3,
         title: "Secure Payments",
         description: "All transactions are encrypted and secure",
-        image: "/payment.jpg",
+        image: "/react-store/payment.jpg",
         icon: "fas fa-lock",
         features: [
             "SSL-encrypted checkout",

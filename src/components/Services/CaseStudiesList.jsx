@@ -16,7 +16,6 @@ const CaseStudiesList = () => {
                 className="w-full h-48 object-cover"
               />
               <div className="p-4">
-                {/* Optional: show logo */}
                 <div className="flex items-center space-x-2 mb-2">
                   {study.logo && (
                     <img src={study.logo} alt={`${study.title} Logo`} className="h-6" />
@@ -26,7 +25,6 @@ const CaseStudiesList = () => {
 
                 <p className="text-gray-600 text-sm">{study.results}</p>
 
-                {/* ✅ Details preview */}
                 {study.details && (
                   <p className="text-gray-500 text-sm mt-2">
                     {study.details[0].length > 150

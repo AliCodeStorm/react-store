@@ -10,7 +10,6 @@ function TestimonialsCaseStudy() {
                 <div className="container mx-auto px-4">
                     <h2 className="text-3xl font-bold mb-12 text-center">Success Stories</h2>
 
-                    {/* Testimonials Section */}
                     <div className="grid md:grid-cols-2 gap-8 mb-12">
                         {testimonials.map(testimonial => (
                             <div key={testimonial.id} className="bg-gray-800 p-8 rounded-lg">
@@ -35,12 +34,11 @@ function TestimonialsCaseStudy() {
                         ))}
                     </div>
 
-                    {/* Case Studies Section */}
                     <div className="grid md:grid-cols-3 gap-6">
                         {caseStudies.map(caseStudy => (
                             <Link
                                 key={caseStudy.id}
-                                to={`/case-studies/${caseStudy.slug}`}  // Use slug in the route
+                                to={`/case-studies/${caseStudy.slug}`}  
                                 className="group"
                             >
                                 <div className="relative overflow-hidden rounded-lg h-64">

@@ -116,7 +116,6 @@ function ContactFrom() {
                                     </div>
                                 </div>
 
-                                {/* Live Chat */}
                                 <div className="flex items-start">
                                     <div className="bg-teal-100 p-3 rounded-full mr-4">
                                         <i className="fas fa-headset text-teal-600 text-xl"></i>

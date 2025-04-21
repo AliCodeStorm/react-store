@@ -13,7 +13,7 @@ function AboutHeroStatement() {
 
                     <div className="flex justify-center mb-12">
                         <img
-                            src="/mission.jpg"
+                            src="/react-store/mission.jpg"
                             alt="Our journey"
                             className="w-full max-w-md rounded-xl shadow-lg"
                         />

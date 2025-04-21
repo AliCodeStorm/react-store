@@ -18,7 +18,7 @@ function PromotionalBanners() {
                             </button>
                         </div>
                         <div className="w-full mt-6">
-                            <img src="/image1.jpg" alt="Summer Sale" className="w-full h-full object-cover rounded-lg shadow-lg" />
+                            <img src="/react-store/image1.jpg" alt="Summer Sale" className="w-full h-full object-cover rounded-lg shadow-lg" />
                         </div>
                     </div>
 
@@ -31,7 +31,7 @@ function PromotionalBanners() {
                             </button>
                         </div>
                         <div className="w-full mt-6">
-                            <img src="/image2.jpg" alt="Winter Collection" className="w-full h-full object-cover rounded-lg shadow-lg" />
+                            <img src="/react-store/image2.jpg" alt="Winter Collection" className="w-full h-full object-cover rounded-lg shadow-lg" />
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@ function PromotionalBanners() {
                             </button>
                         </div>
                         <div className="w-full mt-6">
-                            <img src="/image3.jpg" alt="Black Friday Deals" className="w-full h-full object-cover rounded-lg shadow-lg" />
+                            <img src="/react-store/image3.jpg" alt="Black Friday Deals" className="w-full h-full object-cover rounded-lg shadow-lg" />
                         </div>
                     </div>
 
@@ -57,7 +57,7 @@ function PromotionalBanners() {
                             </button>
                         </div>
                         <div className="w-full mt-6">
-                            <img src="/image4.jpg" alt="New Year Sale" className="w-full h-full object-cover rounded-lg shadow-lg" />
+                            <img src="/react-store/image4.jpg" alt="New Year Sale" className="w-full h-full object-cover rounded-lg shadow-lg" />
                         </div>
                     </div>
 

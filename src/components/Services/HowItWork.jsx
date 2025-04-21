@@ -7,7 +7,6 @@ function HowItWork() {
             <section className="py-16 container mx-auto px-4">
                 <h2 className="text-3xl font-bold mb-12 text-center">Our Process</h2>
                 <div className="relative">
-                    {/* Progress line */}
                     <div className="hidden md:block absolute left-1/2 top-0 h-full w-0.5 bg-gray-200 transform -translate-x-1/2"></div>
 
                     {processSteps.map((step, i) => (
