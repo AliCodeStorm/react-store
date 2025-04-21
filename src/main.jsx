@@ -7,7 +7,7 @@ import App from './App.jsx';
 const rootElement = document.getElementById('root');
 createRoot(rootElement).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/react-store"> 
       <App />
     </BrowserRouter>
   </StrictMode>
