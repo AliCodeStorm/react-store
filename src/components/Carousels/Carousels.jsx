@@ -4,11 +4,11 @@ const Carousel = () => {
 
     const [currentIndex, setCurrentIndex] = useState(0);
     const images = [
-        '/Carousels1.jpg',
-        '/Carousels2.jpg',
-        '/Carousels3.jpg',
-        '/Carousels4.jpg',
-        '/Carousels5.jpg',
+        '/react-store/Carousels1.jpg',
+        '/react-store/Carousels2.jpg',
+        '/react-store/Carousels3.jpg',
+        '/react-store/Carousels4.jpg',
+        '/react-store/Carousels5.jpg',
     ];
     
     const nextSlide = () => {
