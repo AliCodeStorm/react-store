@@ -16,7 +16,6 @@ function AboutPage() {
             <FaqsQestion />
             <LogoSections/>
             <Testimonials/>
-            <h1>AliRaza</h1>
         </div>
 
     )
